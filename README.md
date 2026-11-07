@@ -1,6 +1,6 @@
 # IronRoot Consulting
 
-Static site for IronRoot Consulting. GitHub Pages publishes the `main` branch from the repository root. No CNAME file and no GitHub Pages custom domain are configured.
+Static site for IronRoot Consulting. Publish it with GitHub Pages from the `main` branch at the repository root (`/`). No CNAME file is in this repo, and no custom domain should be configured.
 
 Page copy, prices, booking links, and layout match the current preview site. Production-only additions in this repository:
 
